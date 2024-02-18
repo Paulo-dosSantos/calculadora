@@ -1,0 +1,1 @@
+APP de calculadora criado para te ajudar a calcular aquelas contas terríveis das aulas de matemática, ou talvez pra saber o quanto você vai gastar em uma comprinha no Shopping. Criado com JavaScript, HTML5 e Bootstrap 4.
